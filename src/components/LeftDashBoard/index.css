@@ -1,0 +1,45 @@
+.left-side-dashboard-box {
+  width: 300px;
+  padding: 20px;
+}
+.logo-heading {
+  color: #9216fe;
+  font-size: 35px;
+  font-family: 'roboto';
+  font-weight: 600;
+  text-align: center;
+}
+.dash-board-box {
+  display: flex;
+  margin-left: 15px;
+}
+.blue-dashboard-text {
+  color: #000000;
+  font-size: 15px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+.first-blue-dashboard-text {
+  color: #6d68e0;
+  font-size: 15px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+.blue-home-icon {
+  color: #6d68e0;
+  font-size: 23px;
+  margin-top: 8px;
+  margin-right: 10px;
+}
+.dashboard-sub-heading {
+  color: #a1a1aa;
+  font-size: 13px;
+  font-family: 'roboto';
+  font-weight: 400;
+  margin-left: 15px;
+}
+.remaining-logo-icons {
+  font-size: 23px;
+  margin-top: 8px;
+  margin-right: 10px;
+}

@@ -12,6 +12,7 @@ import EventsPage from './components/EventsPage'
 import AIUniversityCarricular from './components/AIUniversityCarricular'
 import AIUniversityWorkExp from './components/AIUniversityWorkExp'
 import AIUniversitySecondCarricular from './components/AIUniversitySecondCarricular'
+import FirstDashBoard from './components/FirstDashBoard'
 
 // Replace your code here
 const App = () => (
@@ -29,6 +30,7 @@ const App = () => (
     <AIUniversityCarricular />
     <AIUniversityWorkExp />
     <AIUniversitySecondCarricular />
+    <FirstDashBoard />
   </div>
 )
 
