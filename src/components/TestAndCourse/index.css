@@ -1,0 +1,111 @@
+.main-test-course-container {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.text-course-search-container {
+  width: 30vw;
+  height: 65px;
+  border-radius: 13px;
+  border-style: solid;
+  border-width: 2.5px;
+  border-color: grey;
+  display: flex;
+  padding-left: 15px;
+}
+.search-course-input-field {
+  width: 27vw;
+  height: 60px;
+  border: none;
+  outline: none;
+}
+.course-search-icon {
+  font-size: 30px;
+  color: grey;
+  margin-top: 15px;
+  margin-right: 20px;
+}
+.ielts-card {
+  background: linear-gradient(
+      179.97deg,
+      rgba(95, 113, 228, 0.3) 0.03%,
+      rgba(0, 0, 0, 0) 99.97%
+    ),
+    #ffffff;
+  border: 1px solid #cdd3f7;
+  border-radius: 12.2445px;
+  width: 400px;
+  padding: 30px;
+  margin-right: 30px;
+}
+.icon-students-box {
+  width: 150px;
+  background-color: #ffffff;
+  border-radius: 18px;
+  height: 34px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+}
+.students-count-text {
+  color: #000000;
+  font-size: 15px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+.students-count-icon {
+  color: #ffd13c;
+  margin-right: 5px;
+  font-size: 19px;
+}
+.ielts-image-heading-icon {
+  display: flex;
+  align-items: center;
+}
+.ielts-ellipse-icon {
+  width: 24%;
+  margin-right: 10px;
+}
+.course-ielts-card-heading {
+  color: #000000;
+  font-size: 26px;
+  font-family: 'roboto';
+  font-weight: 600;
+}
+.card-span-text {
+  color: #5f71e4;
+  font-size: 23px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+.card-ul-item {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+.horizontal-line {
+  border-color: #5f71e4;
+}
+.card-view-more-btn {
+  background-color: #5f71e4;
+  width: 100%;
+  height: 60px;
+  border-width: 0px;
+  border-radius: 12px;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'roboto';
+  font-weight: 500;
+  cursor: pointer;
+}
+.course-card-container {
+  display: flex;
+}
+.course-card-heading {
+  color: #000000;
+  font-size: 35px;
+  font-family: 'roboto';
+  font-weight: 600;
+  margin-top: 60px;
+}

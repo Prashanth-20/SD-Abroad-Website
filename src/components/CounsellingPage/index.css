@@ -1,0 +1,52 @@
+.counselling-page-top-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.counselling-page-description {
+  color: #394489;
+  font-size: 19px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+.counselling-page-button {
+  background-color: #5f71e4;
+  width: 180px;
+  height: 42px;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'roboto';
+  border-width: 0px;
+  border-radius: 14px;
+}
+.counselling-page-main-container {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.confused-man-image {
+  width: 30%;
+  height: 40%;
+}
+.drop-down-text-image {
+  display: flex;
+  justify-content: space-between;
+}
+.drop-down-heading {
+  color: #000000;
+  font-size: 14px;
+  font-family: 'roboto';
+  font-weight: 600;
+}
+.main-drop-down-box {
+  background-color: #ffffff;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.04), 0px 4px 8px rgba(0, 0, 0, 0.06);
+  padding: 20px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+.drop-down-description {
+  color: #000000;
+  font-size: 13px;
+  font-family: 'roboto';
+  font-weight: 400;
+}

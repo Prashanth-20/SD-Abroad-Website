@@ -1,0 +1,10 @@
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+}
+.sbi-po-text {
+  font-size: 10px;
+  font-family: 'roboto';
+  color: #000000;
+  line-height: 1;
+}

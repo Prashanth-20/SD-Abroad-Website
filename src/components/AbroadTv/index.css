@@ -1,0 +1,73 @@
+.abroad-tv-main-container {
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 50px;
+}
+
+.abroad-tv-top-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.abroad-tv-top-heading {
+  color: #5f71e4;
+  font-size: 30px;
+  font-family: 'roboto';
+  font-weight: 600;
+}
+.abroad-tv-tag-text {
+  color: #000000;
+  font-size: 17px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+.abroad-tv-background-container {
+  background-image: url('https://i.ibb.co/vwBFR1M/Ellipse-144.png');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.abroad-tv-study-image {
+  width: 50%;
+}
+.youtube-images-container {
+  display: flex;
+  justify-content: space-between;
+}
+.abroad-tv-youtube-image {
+  width: 80%;
+  border-radius: 10px;
+}
+.abroad-tv-youtube-image-2 {
+  width: 30%;
+  border-radius: 10px;
+}
+.youtube-image-title {
+  color: #000000;
+  font-size: 15px;
+  font-family: 'roboto';
+  font-weight: 600;
+}
+.youtube-image-date {
+  color: #000000;
+  font-size: 13px;
+  font-family: 'roboto';
+  font-weight: 400;
+  margin-top: 0px;
+}
+.images-youtube-heading {
+  color: #000000;
+  font-size: 25px;
+  font-family: 'roboto';
+  font-weight: 600;
+  margin-top: 80px;
+}
+.blue-images-youtube-heading {
+  color: #5f71e4;
+  font-size: 25px;
+  font-family: 'roboto';
+  font-weight: 600;
+  margin-top: 80px;
+}

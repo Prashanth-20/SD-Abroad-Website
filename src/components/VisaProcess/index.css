@@ -1,0 +1,119 @@
+.accommodation-main-page {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.top-accommodation-page {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.accommodation-image {
+  width: 20%;
+}
+.ccommodation-top-heading {
+  color: #000000;
+  font-size: 25px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+.accommodation-styled-text {
+  color: #5f71e4;
+}
+.accommodation-paragraph {
+  color: #394489;
+  font-size: 18px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+.accommodation-main-description {
+  color: #4c5ab6;
+  font-size: 16px;
+  font-family: 'roboto';
+  font-weight: 400;
+}
+.youtube-image {
+  width: 100%;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+.accommodation-paragraphs {
+  color: #000000;
+  font-size: 18px;
+  font-family: 'roboto';
+  font-weight: 400;
+}
+.family-image {
+  width: 40%;
+}
+.family-image-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.accommodation-form-section {
+  background: linear-gradient(
+    90deg,
+    #5f71e4 40.05%,
+    rgba(205, 211, 247, 0.8) 90.42%
+  );
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.accommodation-form-heading {
+  color: #ffffff;
+  font-size: 27px;
+  font-weight: 600;
+  font-family: 'roboto';
+}
+.accommodation-form-description {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'roboto';
+}
+.accommodation-form-background {
+  background-color: #ffffff;
+  width: 330px;
+  height: 230px;
+  border-radius: 8px;
+  padding: 20px;
+}
+.accommodation-input {
+  width: 100%;
+  border-color: #dadada;
+  border-width: 1px;
+  border-style: solid;
+  height: 27px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  border-radius: 4px;
+  outline: none;
+  color: #5f71e4;
+}
+.accommodation-select {
+  width: 40%;
+  border-color: #dadada;
+  border-width: 1px;
+  border-style: solid;
+  height: 27px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  border-radius: 4px;
+  outline: none;
+}
+.accommodation-sbt-btn {
+  width: 80px;
+  border-width: 0px;
+  height: 27px;
+  border-radius: 15px;
+  outline: none;
+  background-color: #5f71e4;
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 500;
+  cursor: pointer;
+}

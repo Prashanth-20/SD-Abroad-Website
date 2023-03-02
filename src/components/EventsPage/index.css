@@ -1,0 +1,66 @@
+.abroad-tv-main-container {
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 50px;
+}
+
+.abroad-tv-top-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.events-page-top-heading {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'roboto';
+  font-weight: 600;
+}
+.abroad-tv-tag-text {
+  color: #394489;
+  font-size: 17px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+
+.events-page-study-image {
+  width: 30%;
+}
+.youtube-images-container {
+  display: flex;
+  justify-content: space-between;
+}
+.abroad-tv-youtube-image {
+  width: 80%;
+  border-radius: 10px;
+}
+.abroad-tv-youtube-image-2 {
+  width: 30%;
+  border-radius: 10px;
+}
+.youtube-image-title {
+  color: #000000;
+  font-size: 15px;
+  font-family: 'roboto';
+  font-weight: 600;
+}
+.youtube-image-date {
+  color: #000000;
+  font-size: 13px;
+  font-family: 'roboto';
+  font-weight: 400;
+  margin-top: 0px;
+}
+.images-youtube-heading {
+  color: #000000;
+  font-size: 25px;
+  font-family: 'roboto';
+  font-weight: 600;
+  margin-top: 80px;
+}
+.blue-images-youtube-heading {
+  color: #5f71e4;
+  font-size: 25px;
+  font-family: 'roboto';
+  font-weight: 600;
+  margin-top: 80px;
+}

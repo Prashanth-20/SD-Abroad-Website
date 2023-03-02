@@ -1,0 +1,73 @@
+.background-bottom-section {
+  background-color: #5a4bda;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.bottom-section {
+  display: flex;
+  justify-content: space-around;
+}
+
+.main-logo-head {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 30px;
+  font-weight: 600;
+}
+.text {
+  color: lightcyan;
+  font-family: 'roboto';
+  font-size: 12px;
+  font-weight: 400;
+}
+.small-head {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 18px;
+  font-weight: 600;
+}
+.logo-box {
+  width: 43px;
+  height: 40px;
+  font-size: 12px;
+  border-radius: 7px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+  font-family: 'roboto';
+  background-color: #ffffff;
+  margin-right: 10px;
+}
+.logo-container {
+  display: flex;
+}
+.app-text {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 13px;
+  font-weight: 500;
+  margin-top: 5px;
+}
+.download-text {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 11px;
+  text-decoration: underline;
+  font-weight: 400;
+  margin-top: -10px;
+}
+.social-icons {
+  width: 80%;
+  margin-top: 20px;
+}
+.end-bottom-text {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
