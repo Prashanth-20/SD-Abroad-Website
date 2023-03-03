@@ -1,6 +1,9 @@
 import {AiOutlineHome} from 'react-icons/ai'
-import {BsBarChart, BsReplyAll, BsFillPersonFill} from 'react-icons/bs'
+import {BsBarChart, BsReplyAll, BsFillPersonFill, BsBell} from 'react-icons/bs'
+
 import {FaGraduationCap} from 'react-icons/fa'
+
+import {RiFileListLine} from 'react-icons/ri'
 
 import './index.css'
 
@@ -44,17 +47,17 @@ const LeftDashBoard = () => (
     <h1 className="dashboard-sub-heading">EXAM</h1>
 
     <div className="dash-board-box">
-      <AiOutlineHome className="remaining-logo-icons" />
+      <RiFileListLine className="remaining-logo-icons" />
       <p className="blue-dashboard-text">Resources</p>
     </div>
 
     <div className="dash-board-box">
-      <AiOutlineHome className="remaining-logo-icons" />
+      <BsBell className="remaining-logo-icons" />
       <p className="blue-dashboard-text">Assignment</p>
     </div>
 
     <div className="dash-board-box">
-      <AiOutlineHome className="remaining-logo-icons" />
+      <BsBarChart className="remaining-logo-icons" />
       <p className="blue-dashboard-text">Reports</p>
     </div>
 
